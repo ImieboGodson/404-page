@@ -9,11 +9,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://404-layout.netlify.app/">
+    <a href="https://404-layout.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://https://github.com/ImieboGodson/404-page/">
+    <a href="https://github.com/ImieboGodson/404-page/">
       Solution
     </a>
     <span> | </span>
