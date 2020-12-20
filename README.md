@@ -1,7 +1,7 @@
 <!-- Please update value in the {}  -->
 
 
-<h1 align="center">{404 Page Not Found}</h1>
+<h1 align="center">404 Page Not Found</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -9,11 +9,15 @@
 
 <div align="center">
   <h3>
-    <a href="{https://404-layout.netlify.app/}">
+    <a href="https://404-layout.netlify.app/">
       Demo
     </a>
     <span> | </span>
+<<<<<<< HEAD
     <a href="{https://devchallenges.io/solutions/d7X4K4crfQMozONNdB9w}">
+=======
+    <a href="https://github.com/ImieboGodson/404-page/">
+>>>>>>> 84ae9145baf4addccac69ac47b747fede19e7eb7
       Solution
     </a>
     <span> | </span>
