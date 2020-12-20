@@ -9,11 +9,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{https://404-layout.netlify.app/}">
+    <a href="{https://404-layout.netlify.app/}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{https://github.com/ImieboGodson/404-page/}">
+    <a href="{https://github.com/ImieboGodson/404-page/}">
       Solution
     </a>
     <span> | </span>
@@ -39,12 +39,9 @@
 
 ![screenshot](https://github.com/ImieboGodson/404-page/blob/master/resources/images/screenshot.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+This project was fun to build, I tried to keep my code as minimal as possible and easy to read for anyone who wants to have a look to gain insight 0f some sort. I really enjoyed the experience, it took me longer than I expected to complete based on my initial assumptions. I made use of Flexbox and CSS Grid in structuring my layout making it as responsive as possible without so much altering with media queries.
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+You can checkout the [demo](https://404-layout.netlify.app/)
 
 ### Built With
 
@@ -57,7 +54,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+This simple page was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [404 Not Found challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
 
 ## Acknowledgements
@@ -68,6 +65,8 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
+
+Any feedback is always welcomed, if you feel there's somewhere/something I should have done better you can always reach out through my handles below. i am ALWAYS ready to learn and grow. You can also follow me to see my adventures through time ;).
 
 - GitHub [@ImieboGodson](https://{github.com/ImieboGodson})
 - Twitter [@ImieboGodson](https://{twitter.com/ImieboGodson})

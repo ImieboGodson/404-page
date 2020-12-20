@@ -24,12 +24,14 @@ body {
     margin: 0 auto;
 }
 
+ /* Top Text */
 .hero .top-text {
     width: 100%;
     height: auto;
     padding: 10px 0;
 }
 
+ /* Hero Image and Text */
 .grid {
     width: 100%;
     padding: 5px;
@@ -85,6 +87,7 @@ body {
     background-color: #333333;
 }
 
+ /* Footer */
 .hero .footer {
     width: 100%;
     margin-top: 90px;
@@ -101,7 +104,7 @@ body {
         padding: 10px;
     }
 
-    .hero .grid {
+    .grid {
         gap: 70px;
         grid-template-columns: repeat(1, 1fr);
     }
