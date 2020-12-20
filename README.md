@@ -13,11 +13,7 @@
       Demo
     </a>
     <span> | </span>
-<<<<<<< HEAD
     <a href="{https://devchallenges.io/solutions/d7X4K4crfQMozONNdB9w}">
-=======
-    <a href="https://github.com/ImieboGodson/404-page/">
->>>>>>> 84ae9145baf4addccac69ac47b747fede19e7eb7
       Solution
     </a>
     <span> | </span>
